@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>go_delivery</name>
+	<displayName><![CDATA[Go delivery]]></displayName>
+	<version><![CDATA[0.1.0]]></version>
+	<description><![CDATA[Go devivery is a delivery module for custom shipping]]></description>
+	<author><![CDATA[Tntrunks]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
